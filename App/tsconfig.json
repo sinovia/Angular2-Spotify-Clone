@@ -8,6 +8,6 @@
 	    "experimentalDecorators": true
 	},
 	"files": [
-		"core/**/*.ts"
+		"core/*.ts"
 	]
 }

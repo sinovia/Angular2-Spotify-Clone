@@ -5,7 +5,7 @@ import {BrowseMusicStrip} from 'spotyngular/browse/components/musicStrip';
 import {BrowseGenresMoods} from 'spotyngular/browse/components/genresMoods';
 
 @Component({
-	selector: 'spotyngular-browse-page'	
+	selector: 'spotyngular-browse-page'
 })
 @View({
 	templateUrl: 'core/browse/page.html',
@@ -18,6 +18,6 @@ export class BrowsePage{
 	constructor() {
 	    this.name = "Browse";
 
-	    setTimeout(()=>this.name="Introduction to Angular 2", 2000);
+	    setTimeout(()=>this.name="Moviefy", 2000);
 	}
 }
