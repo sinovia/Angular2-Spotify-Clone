@@ -44,3 +44,4 @@ then `npm start` will start two servers, one for our database and another for th
 
 
 
+# Angular2-Spotify-Clone
